@@ -1,0 +1,105 @@
+<svg
+            width="256"
+            height="256"
+            viewBox="0 -17.5 200 200"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            stroke="#1B6B54"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          ><title>VillarVet — cão e gato</title><rect x="0" y="-17.5" width="200" height="200" fill="#f9fbf8" stroke="none"/><path
+              d="M100 22C100 22 96 15 91 17.5C86 20 86 27 91 32L100 41L109 32C114 27 114 20 109 17.5C104 15 100 22 100 22Z"
+              stroke-width="4.8"
+            />
+            <circle cx="55" cy="55" r="18" stroke-width="4.8" />
+            <path d="M40 43L36 30L47 40" stroke-width="4.8" />
+            <path d="M70 43L74 30L63 40" stroke-width="4.8" />
+            <circle cx="48" cy="54" r="6.5" stroke-width="4.8" />
+            <circle cx="62" cy="54" r="6.5" stroke-width="4.8" />
+            <line x1="54.5" y1="54" x2="55.5" y2="54" stroke-width="4.8" />
+            <line x1="34" y1="54" x2="41.5" y2="54" stroke-width="4.8" />
+            <line x1="68.5" y1="54" x2="76" y2="54" stroke-width="4.8" />
+            <path d="M53 61L55 64L57 61" fill="#1B6B54" stroke="none" />
+            <line x1="28" y1="58" x2="41" y2="59" stroke-width="4.8" />
+            <line x1="28" y1="62" x2="41" y2="62" stroke-width="4.8" />
+            <line x1="69" y1="59" x2="82" y2="58" stroke-width="4.8" />
+            <line x1="69" y1="62" x2="82" y2="62" stroke-width="4.8" />
+            <path d="M49 73L55 77L61 73L55 69Z" stroke-width="4.8" />
+            <ellipse cx="55" cy="100" rx="19" ry="16" stroke-width="4.8" />
+            <path d="M36 108Q26 115 29 124" stroke-width="4.8" />
+            <rect
+              x="32"
+              y="118"
+              width="46"
+              height="7"
+              rx="3.5"
+              stroke-width="4.8"
+            />
+            <circle cx="41" cy="130" r="5" stroke-width="4.8" />
+            <circle cx="63" cy="130" r="5" stroke-width="4.8" />
+            <line x1="14" y1="121" x2="31" y2="121" stroke-width="4.8" />
+            <circle cx="11" cy="121" r="4" stroke-width="4.8" />
+            <circle cx="34" cy="121" r="4" stroke-width="4.8" />
+            <circle cx="145" cy="55" r="17" stroke-width="4.8" />
+            <path
+              d="M130 50Q119 58 121 72Q126 78 132 70L131 52"
+              stroke-width="4.8"
+            />
+            <path d="M153 46Q160 41 157 48" stroke-width="4.8" />
+            <circle cx="140" cy="52" r="3" fill="#1B6B54" stroke="none" />
+            <circle cx="151" cy="52" r="3" fill="#1B6B54" stroke="none" />
+            <ellipse
+              cx="145"
+              cy="61"
+              rx="6"
+              ry="4"
+              fill="#1B6B54"
+              stroke="none"
+            />
+            <path d="M141 65Q145 70 149 65" stroke-width="4.8" stroke="#1B6B54" />
+            <ellipse cx="145" cy="100" rx="18" ry="16" stroke-width="4.8" />
+            <ellipse cx="145" cy="118" rx="22" ry="6" stroke-width="4.8" />
+            <path d="M163 88Q174 78 171 70" stroke-width="4.8" />
+            <path d="M158 68Q165 62 165 69" stroke-width="4.8" />
+            <line x1="165" y1="69" x2="161" y2="124" stroke-width="4.8" />
+            <ellipse
+              cx="100"
+              cy="148"
+              rx="9"
+              ry="7"
+              fill="#1B6B54"
+              stroke="none"
+            />
+            <ellipse
+              cx="87"
+              cy="140"
+              rx="4.5"
+              ry="3.5"
+              fill="#1B6B54"
+              stroke="none"
+            />
+            <ellipse
+              cx="96"
+              cy="136"
+              rx="4.5"
+              ry="3.5"
+              fill="#1B6B54"
+              stroke="none"
+            />
+            <ellipse
+              cx="104"
+              cy="136"
+              rx="4.5"
+              ry="3.5"
+              fill="#1B6B54"
+              stroke="none"
+            />
+            <ellipse
+              cx="113"
+              cy="140"
+              rx="4.5"
+              ry="3.5"
+              fill="#1B6B54"
+              stroke="none"
+            />
+          </svg>
